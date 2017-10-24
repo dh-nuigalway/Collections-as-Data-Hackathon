@@ -1,4 +1,4 @@
-# External Collections 
+# Digital Humanities Projects @ NUI Galway 
 
 ------------------------------
 
@@ -6,7 +6,7 @@
 
 ------------------------------
 
-Digital humanities projects of interest to this event, by researchers from NUI Galway.
+Digital humanities projects _of interest to this event_, by researchers from NUI Galway.
 
 **More complete project details to follow**
 
