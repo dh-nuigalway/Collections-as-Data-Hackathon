@@ -1,8 +1,16 @@
 # NUI Galway Library Digital Collections 
 
-Collections hosted on the NUI Galway Library's digital platform. Documentation on API access to follow.
+------------------------------
 
-Collection overviews & listings: https://digital.library.nuigalway.ie/ 
+[Back to main page](readme.md)
+
+------------------------------
+
+Collections hosted on the NUI Galway Library's digital platform. 
+
+`Documentation on API access to follow.`
+
+Collection overviews & listings: [https://digital.library.nuigalway.ie/](https://digital.library.nuigalway.ie/) 
  
 ### Tim Robinson Archive 
 An extensive card catalogue compiled by Tim Robinson throughout the 1980s and 1990s, drawn from his field notes. The series has been arranged by Robinson into civil parishes, and further divided into townlands. For most of the townlands, there are several record cards that give a detailed description of the local landscape. These describe historical, ecclesiastical, geological, and archaeological features. Anecdotes and local lore also feature in these. Robinson adds the names of people who helped him compile his information, usually local people, and often correspondents who sent him information helping him identify the origins of placenames, or certain landmarks and artefacts.  
