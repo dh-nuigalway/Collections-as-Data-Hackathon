@@ -18,7 +18,8 @@ An extensive card catalogue compiled by Tim Robinson throughout the 1980s and 19
 The cards also credit several secondary sources, including the OS maps and corresponding Field Name Books, Hardiman's History of Galway, Alexander Nimmo's map of the bogs in the West of Ireland, and many more.  
 In all cases in this series, the placename Tim Robinson used as his title appears as the title here. Many are in Irish, and some are in English. The corresponding translation is provided in the description. 
 
-[https://digital.library.nuigalway.ie/islandora/object/nuigalway%253Arobinson](https://digital.library.nuigalway.ie/islandora/object/nuigalway%253Arobinson)
+- Collection: [https://digital.library.nuigalway.ie/islandora/object/nuigalway%253Arobinson](https://digital.library.nuigalway.ie/islandora/object/nuigalway%253Arobinson)
+- Digitised, geo-rectified maps: [http://mapwarper.net/maps/16019](http://mapwarper.net/maps/16019), [http://mapwarper.net/maps/16140](http://mapwarper.net/maps/16140)
 
 ### Abbey Theatre Minute Books 
  
