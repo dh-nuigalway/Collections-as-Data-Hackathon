@@ -12,6 +12,12 @@ Digital collections hosted by other libraries and organisations that might be in
 
 ## Europeana 
 
+**Their description**
+
+At Europeana we work with thousands of European archives, libraries and museums to share cultural heritage for enjoyment, education and research.
+
+Europeana Collections provides access to over 50 million digitised items – books, music, artworks and more – with sophisticated search and filter tools to help you find what you’re looking for.
+
 Registration (free) & API key required to access data via APIs
 
 - API overviews: [https://pro.europeana.eu/resources/apis](https://pro.europeana.eu/resources/apis)  
