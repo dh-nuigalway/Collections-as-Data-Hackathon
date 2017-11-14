@@ -25,8 +25,8 @@ A selection of digital humanities projects _of interest to this event_, by resea
 ## Translation in 19th Century Ireland
 
 - Homepage [http://translationhistory.nuigalway.ie](http://translationhistory.nuigalway.ie/)
-- Database: http://translationhistory.nuigalway.ie/data/#/(http://translationhistory.nuigalway.ie/data/#/)
-- Data as JSON: https://db.translationhistory.nuigalway.ie/api/v1/translator
+- Database: [http://translationhistory.nuigalway.ie/data/#/](http://translationhistory.nuigalway.ie/data/#/)
+- Data as JSON: [https://db.translationhistory.nuigalway.ie/api/v1/translator](https://db.translationhistory.nuigalway.ie/api/v1/translator)
 
 ## The Art of Travel (1500 - 1850)
 
