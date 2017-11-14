@@ -111,3 +111,36 @@ NYT currently has eleven public APIs: Archive, Article Search, Books, Community,
 
 - Home: [https://developer.nytimes.com/](https://developer.nytimes.com/)
 
+
+## Recovering the Classics
+
+A collection of classic book covers. See: [http://github.com/plympton/rtc](http://github.com/plympton/rtc)
+
+## Project Gutenberg
+
+_Project Gutenberg offers over 54,000 free eBooks: Choose among free epub books, free kindle books, download them or read them online. You will find the world's great literature here, especially older works for which copyright has expired. We digitized and diligently proofread them with the help of thousands of volunteers._
+
+- [http://www.gutenberg.org/](http://www.gutenberg.org/)
+- Instructions for download: http://www.gutenberg.org/wiki/Gutenberg%3aInformation_About_Robot_Access_to_our_Pages
+
+## Gitenberg 
+
+_Gitenberg is a collaborative, open source community curating and publishing highly usable and attractive ebooks in the public domain. Our books are free to use by anyone for any purpose. They contain detailed metadata and are accessible in a wide variety of formats._
+
+43,000 Public domain books
+
+- [https://www.gitenberg.org/](https://www.gitenberg.org/)
+- [https://github.com/gitenberg](https://github.com/gitenberg)
+
+## Spotify
+
+Fetch data from Spotify Catalog: Tracks, Albums, Artists, Users, etc. Note: There are a number of audiobooks in their catalog. 
+
+- [https://developer.spotify.com/](https://developer.spotify.com)
+- Get a key here: [https://developer.spotify.com/my-applications](https://developer.spotify.com/my-applications)
+
+
+
+
+
+
