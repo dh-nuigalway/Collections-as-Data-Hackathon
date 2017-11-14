@@ -8,7 +8,6 @@
 
 Digital collections hosted by other libraries and organisations that might be interesting to explore.
 
-**More to follow**
 
 ## Europeana 
 
@@ -63,3 +62,52 @@ _DRAPIer also documents the methods, formats and standards that are being used b
 _DHO:Discovery is Ireland’s gateway to Irish digital collections and resources. DHO:Discovery supports the interdisciplinary and inter-institutional sharing of knowledge throughout the Humanities Serving Irish Society consortium and across digital research collections of Irish interest._ 
 
 - See: [http://discovery.dho.ie/](http://discovery.dho.ie/)
+
+
+## New York Public Library Collections
+
+- [https://digitalcollections.nypl.org/about](https://digitalcollections.nypl.org/about)
+- API: [http://api.repo.nypl.org/](http://api.repo.nypl.org/)
+- Metadata on Github: Snapshot of Item and Collection data for public domain materials in NYPL Digital Collections, as part of NYPL's January 2016 public domain release - [https://github.com/NYPL-publicdomain/data-and-utilities](https://github.com/NYPL-publicdomain/data-and-utilities)
+
+## Folger Digital Texts
+
+**Their description:**
+
+Our free, high-quality digital texts of Shakespeare's plays start with the basics: superb source texts, meticulously edited on the basis of current scholarship. The plays in Folger Digital Texts are taken from the Folger Shakespeare Library editions, completed in 2010 by editors Barbara Mowat and Paul Werstine and published by Simon & Schuster.
+
+To these texts, we've added sophisticated coding that works behind the scenes to make the plays easy to read, search, and index—and lays the groundwork for new features in the future. We've also used the same page numbers and layouts as in the Folger print editions, so it's simple to use the two together.
+
+- Homepage: [http://www.folgerdigitaltexts.org/](http://www.folgerdigitaltexts.org/)
+- API [http://www.folgerdigitaltexts.org/api](http://www.folgerdigitaltexts.org/api)
+- Downloads in a variety of formats [http://www.folgerdigitaltexts.org/download/]
+
+
+## News API
+
+**Their description:**
+
+Access worldwide news programmatically. Get breaking news headlines, and search for articles from over 5,000 news sources and blogs with our news API.
+
+- Home: [http://beta.newsapi.org/](http://beta.newsapi.org/)
+- Docs: [http://beta.newsapi.org/docs](http://beta.newsapi.org/docs)
+
+## The Guardian Open Platform
+
+**Their description:**
+
+Our API stores all articles, images, audio and videos dating back to 1999. The Open Platform is a public web service for accessing all the content the Guardian creates, categorised by tags and section.
+
+- Home: [http://open-platform.theguardian.com/](http://open-platform.theguardian.com/)
+- Documentation: [http://open-platform.theguardian.com/documentation/](http://open-platform.theguardian.com/documentation/)
+
+## New York Times API
+
+**Their description:**
+
+Our APIs (application programming interfaces) allow you to programmatically access New York Times data for use in your own applications. Our goal is to facilitate a wide range of uses, from custom link lists to complex visualizations. Why just read the news when you can hack it?
+
+NYT currently has eleven public APIs: Archive, Article Search, Books, Community, Geographic, Most Popular, Movie Reviews, Semantic, Times Newswire, TimesTags, and Top Stories.
+
+- Home: [https://developer.nytimes.com/](https://developer.nytimes.com/)
+
