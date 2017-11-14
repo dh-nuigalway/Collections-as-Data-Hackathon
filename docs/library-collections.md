@@ -8,7 +8,11 @@
 
 Collections hosted on the NUI Galway Library's digital platform. 
 
-`Documentation on API access to follow.`
+## Technical Documentation
+
+The digital platform uses Islandora. You can see technical documentation that describes [API access to the NUI Galway digital platform](https://www.dropbox.com/s/a1e71711zyt1zeo/Islandora%20APIs.pdf?dl=0); this documentation was created by [Cillian Joy](https://twitter.com/cillianjoy), of the Library's Digital Publishing & Innovation group.
+
+## Collection Overview
 
 Collection overviews & listings: [https://digital.library.nuigalway.ie/](https://digital.library.nuigalway.ie/) 
  
