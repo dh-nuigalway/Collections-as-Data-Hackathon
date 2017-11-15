@@ -10,11 +10,13 @@ Collections hosted on the NUI Galway Library's digital platform.
 
 ## Technical Documentation
 
-The digital platform uses Islandora. You can see technical documentation that describes [API access to the NUI Galway digital platform](https://www.dropbox.com/s/a1e71711zyt1zeo/Islandora%20APIs.pdf?dl=0); this documentation was created by [Cillian Joy](https://twitter.com/cillianjoy), of the Library's Digital Publishing & Innovation group.
+The digital platform is built on Islandora. 
+
+You can see [technical documentation that describes API access](https://www.dropbox.com/s/a1e71711zyt1zeo/Islandora%20APIs.pdf?dl=0) to the NUI Galway digital platform; this documentation was created by [Cillian Joy](https://twitter.com/cillianjoy), of the Library's Digital Publishing & Innovation group.
 
 ## Collection Overview
 
-Collection overviews & listings: [https://digital.library.nuigalway.ie/](https://digital.library.nuigalway.ie/) 
+Full listing of available collections: [https://digital.library.nuigalway.ie/](https://digital.library.nuigalway.ie/) 
  
 ### Tim Robinson Archive 
 An extensive card catalogue compiled by Tim Robinson throughout the 1980s and 1990s, drawn from his field notes. The series has been arranged by Robinson into civil parishes, and further divided into townlands. For most of the townlands, there are several record cards that give a detailed description of the local landscape. These describe historical, ecclesiastical, geological, and archaeological features. Anecdotes and local lore also feature in these. Robinson adds the names of people who helped him compile his information, usually local people, and often correspondents who sent him information helping him identify the origins of placenames, or certain landmarks and artefacts.  
