@@ -22,6 +22,21 @@ Registration (free) & API key required to access data via APIs
 - API overviews: [https://pro.europeana.eu/resources/apis](https://pro.europeana.eu/resources/apis)  
 - REST API - [https://pro.europeana.eu/resources/apis/europeana-rest-api](https://pro.europeana.eu/resources/apis/europeana-rest-api) 
  
+## UCD Digital Collections
+
+- Digital Collections homepage: https://digital.ucd.ie/?q=dc.type:Collection&rows=50&sort=sort_title+asc
+- Data APIs: https://digital.ucd.ie/research/#services-api
+
+Provides a number of data service APIs:
+
+- Geospatial Data API
+- International Image Interoperability Framework (IIIF)
+- Quantitative Data API
+- OpenSearch API
+- Linked Data API
+- unAPI
+
+
 ## Digital Repository of Ireland (DRI)
 
 Read-only API access available without an API key. 
