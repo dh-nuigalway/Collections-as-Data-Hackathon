@@ -36,6 +36,16 @@ Provides a number of data service APIs:
 - Linked Data API
 - unAPI
 
+## Tate Gallery
+
+**Their description** 
+
+_The artworks are available through the [Art & artists section](http://www.tate.org.uk/art) of this website. We have also published the underlying collection dataset so that it may be used for research and other purposes._
+
+_The published dataset contains the 'Concise catalogue entries' for all wholly owned artworks in the Tate collection including the ARTIST ROOMS collection which is jointly owned with the National Galleries of Scotland. Records of items from the Tate Archive are added as they are digitised and published in the Art & artists section of the website._
+
+- About Collection data: [http://www.tate.org.uk/about-us/digital/collection-data](http://www.tate.org.uk/about-us/digital/collection-data)
+- Collection Metadata (images not included): [https://github.com/tategallery/collection](https://github.com/tategallery/collection)
 
 ## Digital Repository of Ireland (DRI)
 
