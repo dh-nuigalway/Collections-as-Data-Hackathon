@@ -47,6 +47,17 @@ _The published dataset contains the 'Concise catalogue entries' for all wholly o
 - About Collection data: [http://www.tate.org.uk/about-us/digital/collection-data](http://www.tate.org.uk/about-us/digital/collection-data)
 - Collection Metadata (images not included): [https://github.com/tategallery/collection](https://github.com/tategallery/collection)
 
+## Victoria & Albert Museum
+
+**Their description**
+
+_The V&A is the world’s leading museum of art and design, housing a permanent collection of over 2.3 million objects that span over 5,000 years of human creativity. The Museum holds many of the UK's national collections and houses some of the greatest resources for the study of architecture, furniture, fashion, textiles, photography, sculpture, painting, jewellery, glass, ceramics, book arts, Asian art and design, theatre and performance._
+
+- Homepage: [https://www.vam.ac.uk](https://www.vam.ac.uk)
+- Collections page: [https://www.vam.ac.uk/collections/](https://www.vam.ac.uk/collections/)
+- Collections Search page [https://collections.vam.ac.uk/](https://collections.vam.ac.uk)
+- REST API Documentation: [http://www.vam.ac.uk/api](http://www.vam.ac.uk/api)
+
 ## Digital Repository of Ireland (DRI)
 
 Read-only API access available without an API key. 
