@@ -12,7 +12,8 @@ Collections hosted on the NUI Galway Library's digital platform.
 
 The digital platform is built on Islandora. 
 
-You can see [technical documentation that describes API access](https://www.dropbox.com/s/a1e71711zyt1zeo/Islandora%20APIs.pdf?dl=0) to the NUI Galway digital platform; this documentation was created by [Cillian Joy](https://twitter.com/cillianjoy), of the Library's Digital Publishing & Innovation group.
+You can see [technical documentation that describes API access](https://www.dropbox.com/s/a1e71711zyt1zeo/Islandora%20APIs.pdf?dl=0) to the NUI Galway digital platform; this documentation was created by [Cillian Joy](https://twitter.com/cillianjoy), of the Library's Digital Publishing & Innovation group. You can also see [some code examples of API access](https://github.com/cillianjoy/Digital-Repositry-API).
+
 
 ## Collection Overview
 
